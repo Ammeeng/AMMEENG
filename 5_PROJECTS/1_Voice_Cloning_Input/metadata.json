@@ -1,0 +1,15 @@
+{
+  "audio_processing": {
+    "preferred_format": "wav",
+    "sample_rate": 44100,
+    "bit_depth": 16,
+    "channels": 1,
+    "language": "urdu",
+    "voice_characteristics": {
+      "pitch_range": "to be determined",
+      "speaking_rate": "to be determined",
+      "voice_quality": "to be documented"
+    }
+  },
+  "clips": []
+}
